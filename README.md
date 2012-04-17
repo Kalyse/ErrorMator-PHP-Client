@@ -68,6 +68,8 @@ $command = $client->getCommand('error'); // For Sending Error Information
 $command = $client->getCommand('slow'); // For Sending Slow Request Information
 ```
 
-For full use cases, see the example.php file. 
+For full use cases, see the example.php file and consult the API Documentation 
+
+https://errormator.com/page/api-reports-create
 
 
