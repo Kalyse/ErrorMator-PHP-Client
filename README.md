@@ -25,7 +25,7 @@ Then whenever you want to use the ErrorMator client you should use the namespace
 
 ```php
 use ErrorMator\ErrorMatorClient;
-`
+```
 
 Slow Requests, Log, Error
 =============
@@ -57,6 +57,7 @@ $command->addLog(
 $httpResponse = $client->execute($command);
 
 ```
+
 Commands Available
 ===
 These are the curretly supported commands that you can request from the API to communicate with ErrorMator
